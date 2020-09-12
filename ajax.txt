@@ -1,0 +1,7 @@
+ajax is not a programming lang.
+It is just a library in js.
+today all website is use of ajax.
+No page reload/refresh
+Better user experience
+saves network bandwidth
+very interactive
